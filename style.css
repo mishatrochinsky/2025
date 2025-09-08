@@ -39,7 +39,8 @@ main{
 footer{
     background-color: sienna;
     padding: 30px;
-    border-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
 }
 h1{
     text-shadow: 2px 2px 5px black;
@@ -48,4 +49,5 @@ table{
     margin: auto;
     width: 70%;
     background-color: sienna;
+
 }
